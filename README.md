@@ -48,7 +48,7 @@ Clone the repository to your pc, and open with Jupyter Notebook
 ## Contributors
 Matheus Godinho Araujo
 
-##License
+## License
 
 Public
-**
+
